@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arnesh444/My_programs/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Arnesh444/My_programs/tree/master/0004-median-of-two-sorted-arrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Arnesh444/My_programs/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Simulation
 |  |
@@ -16,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arnesh444/My_programs/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Arnesh444/My_programs/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Arnesh444/My_programs/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
