@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arnesh444/My_programs/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Arnesh444/My_programs/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Arnesh444/My_programs/tree/master/0125-valid-palindrome) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Arnesh444/My_programs/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Arnesh444/My_programs/tree/master/0022-generate-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Arnesh444/My_programs/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
