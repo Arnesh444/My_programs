@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Arnesh444/My_programs/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arnesh444/My_programs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Arnesh444/My_programs/tree/master/0027-remove-element) |
+| [0217-contains-duplicate](https://github.com/Arnesh444/My_programs/tree/master/0217-contains-duplicate) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Arnesh444/My_programs/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Arnesh444/My_programs/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Arnesh444/My_programs/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Arnesh444/My_programs/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arnesh444/My_programs/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0217-contains-duplicate](https://github.com/Arnesh444/My_programs/tree/master/0217-contains-duplicate) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Arnesh444/My_programs/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Arnesh444/My_programs/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Arnesh444/My_programs/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Arnesh444/My_programs/tree/master/0018-4sum) |
+| [0217-contains-duplicate](https://github.com/Arnesh444/My_programs/tree/master/0217-contains-duplicate) |
 ## Stack
 |  |
 | ------- |
