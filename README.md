@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Arnesh444/My_programs/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arnesh444/My_programs/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0202-happy-number](https://github.com/Arnesh444/My_programs/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Arnesh444/My_programs/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arnesh444/My_programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0804-unique-morse-code-words](https://github.com/Arnesh444/My_programs/tree/master/0804-unique-morse-code-words) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Arnesh444/My_programs/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arnesh444/My_programs/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Arnesh444/My_programs/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Arnesh444/My_programs/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arnesh444/My_programs/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String Matching
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Arnesh444/My_programs/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Arnesh444/My_programs/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Arnesh444/My_programs/tree/master/0202-happy-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -142,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Arnesh444/My_programs/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Arnesh444/My_programs/tree/master/0021-merge-two-sorted-lists) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Arnesh444/My_programs/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
