@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arnesh444/My_programs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Arnesh444/My_programs/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/Arnesh444/My_programs/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Arnesh444/My_programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0804-unique-morse-code-words](https://github.com/Arnesh444/My_programs/tree/master/0804-unique-morse-code-words) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Arnesh444/My_programs/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Arnesh444/My_programs/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Arnesh444/My_programs/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arnesh444/My_programs/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/Arnesh444/My_programs/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Arnesh444/My_programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0804-unique-morse-code-words](https://github.com/Arnesh444/My_programs/tree/master/0804-unique-morse-code-words) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Arnesh444/My_programs/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Arnesh444/My_programs/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arnesh444/My_programs/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Arnesh444/My_programs/tree/master/0069-sqrtx) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Arnesh444/My_programs/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Arnesh444/My_programs/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arnesh444/My_programs/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Arnesh444/My_programs/tree/master/0125-valid-palindrome) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Arnesh444/My_programs/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -107,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Arnesh444/My_programs/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Arnesh444/My_programs/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/Arnesh444/My_programs/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Arnesh444/My_programs/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Stack
 |  |
 | ------- |
