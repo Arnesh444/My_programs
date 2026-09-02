@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/Arnesh444/My_programs/tree/master/0804-unique-morse-code-words) |
 | [1207-unique-number-of-occurrences](https://github.com/Arnesh444/My_programs/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Arnesh444/My_programs/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2351-first-letter-to-appear-twice](https://github.com/Arnesh444/My_programs/tree/master/2351-first-letter-to-appear-twice) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Arnesh444/My_programs/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Arnesh444/My_programs/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Arnesh444/My_programs/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Arnesh444/My_programs/tree/master/0125-valid-palindrome) |
 | [0804-unique-morse-code-words](https://github.com/Arnesh444/My_programs/tree/master/0804-unique-morse-code-words) |
+| [2351-first-letter-to-appear-twice](https://github.com/Arnesh444/My_programs/tree/master/2351-first-letter-to-appear-twice) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Arnesh444/My_programs/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Backtracking
 |  |
@@ -155,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Arnesh444/My_programs/tree/master/0128-longest-consecutive-sequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/Arnesh444/My_programs/tree/master/2351-first-letter-to-appear-twice) |
+## Counting
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/Arnesh444/My_programs/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
