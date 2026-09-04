@@ -6,14 +6,14 @@
 
 class Solution(object):
     def hasCycle(self, head):
-        cu=head
-        vis=set()
+        slow=head
+        fast=head
 
-        while cu!=None:
-            if cu in vis:
+        while fast!=None and fast.next!=None:
+            slow=slow.next
+            fast=fast.next.next
+
+            if slow==fast:
                 return True
             
-            vis.add(cu)
-            cu=cu.next
-        
         return False
