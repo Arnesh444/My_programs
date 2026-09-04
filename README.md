@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Arnesh444/My_programs/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Arnesh444/My_programs/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arnesh444/My_programs/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/Arnesh444/My_programs/tree/master/0876-middle-of-the-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Arnesh444/My_programs/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Arnesh444/My_programs/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Arnesh444/My_programs/tree/master/0021-merge-two-sorted-lists) |
+| [0876-middle-of-the-linked-list](https://github.com/Arnesh444/My_programs/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
