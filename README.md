@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arnesh444/My_programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0804-unique-morse-code-words](https://github.com/Arnesh444/My_programs/tree/master/0804-unique-morse-code-words) |
 | [1207-unique-number-of-occurrences](https://github.com/Arnesh444/My_programs/tree/master/1207-unique-number-of-occurrences) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Arnesh444/My_programs/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Arnesh444/My_programs/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Arnesh444/My_programs/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Arnesh444/My_programs/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Arnesh444/My_programs/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Arnesh444/My_programs/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Arnesh444/My_programs/tree/master/0202-happy-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Arnesh444/My_programs/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Newton's Method
 |  |
 | ------- |
