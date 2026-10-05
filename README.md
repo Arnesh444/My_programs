@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Arnesh444/My_programs/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Arnesh444/My_programs/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Arnesh444/My_programs/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Arnesh444/My_programs/tree/master/0231-power-of-two) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Arnesh444/My_programs/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Newton's Method
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Arnesh444/My_programs/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Arnesh444/My_programs/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Arnesh444/My_programs/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/Arnesh444/My_programs/tree/master/0231-power-of-two) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Arnesh444/My_programs/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Arnesh444/My_programs/tree/master/0231-power-of-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/Arnesh444/My_programs/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
 |  |
