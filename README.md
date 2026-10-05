@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Arnesh444/My_programs/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arnesh444/My_programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0804-unique-morse-code-words](https://github.com/Arnesh444/My_programs/tree/master/0804-unique-morse-code-words) |
+| [0888-fair-candy-swap](https://github.com/Arnesh444/My_programs/tree/master/0888-fair-candy-swap) |
 | [1207-unique-number-of-occurrences](https://github.com/Arnesh444/My_programs/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Arnesh444/My_programs/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Arnesh444/My_programs/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Arnesh444/My_programs/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arnesh444/My_programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0804-unique-morse-code-words](https://github.com/Arnesh444/My_programs/tree/master/0804-unique-morse-code-words) |
+| [0888-fair-candy-swap](https://github.com/Arnesh444/My_programs/tree/master/0888-fair-candy-swap) |
 | [1207-unique-number-of-occurrences](https://github.com/Arnesh444/My_programs/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Arnesh444/My_programs/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/Arnesh444/My_programs/tree/master/2351-first-letter-to-appear-twice) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Arnesh444/My_programs/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Arnesh444/My_programs/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arnesh444/My_programs/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0888-fair-candy-swap](https://github.com/Arnesh444/My_programs/tree/master/0888-fair-candy-swap) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Arnesh444/My_programs/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/Arnesh444/My_programs/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arnesh444/My_programs/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0888-fair-candy-swap](https://github.com/Arnesh444/My_programs/tree/master/0888-fair-candy-swap) |
 ## Stack
 |  |
 | ------- |
